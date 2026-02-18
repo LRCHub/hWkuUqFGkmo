@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Movin'on without you",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-18T15:08:50.646770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Movin'on without you",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Movin'on_without_you_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Movin'On Without You",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_Movin'On_Without_You_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Movin'on without you",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/03_Movin'on_without_you_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Movin'on without you",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/04_Movin'on_without_you_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Movin'on without you",
+      "artist": "Utada Hikaru",
+      "has_synced": false,
+      "path": "select/05_Movin'on_without_you_Utada_Hikaru.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Movin'on without you",
+      "artist": "宇多田光",
+      "has_synced": false,
+      "path": "select/06_Movin'on_without_you_宇多田光.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Movin'on without you -tribalmix-",
+      "artist": "宇多田光",
+      "has_synced": false,
+      "path": "select/07_Movin'on_without_you_-tribalmix-_宇多田光.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Movin'on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Movin'on_without_you_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Movin'on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Movin'on_without_you_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Movin' on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Movin'_on_without_you_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Movin' on Without You",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Movin'_on_Without_You_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Movin’ on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Movin’_on_without_you_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Movin' on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_Movin'_on_without_you_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Movin' on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_Movin'_on_without_you_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Movin' on without you",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_Movin'_on_without_you_宇多田_ヒカル.txt"
+    }
+  ]
+}
